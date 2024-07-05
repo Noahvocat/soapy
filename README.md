@@ -1,2 +1,2 @@
 # Soapy
-## A tool to simplify getting BPM packages
+## A simple cli utility to simplify getting BPM packages
